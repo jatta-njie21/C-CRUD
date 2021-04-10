@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Web.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crud.DTO/CrudDTO.cs">
     <Files>
       <File FileName="Default.aspx" Line="1" Column="1" />
       <File FileName="Web.config" Line="1" Column="1" />
+      <File FileName="Crud.DTO/CrudDTO.cs" Line="3" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Crud" expanded="True">
-            <Node name="Crud" expanded="True" selected="True" />
+            <Node name="Crud.DTO" expanded="True">
+              <Node name="CrudDTO.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,6 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Crud FirstBuild="True" PreferredExecutionTarget="firefox" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Crud.DTO FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

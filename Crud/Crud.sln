@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud.csproj", "{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DTO", "Crud.DTO\Crud.DTO.csproj", "{26F21115-B232-49CF-9B2B-FC41089A777F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F21115-B232-49CF-9B2B-FC41089A777F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F21115-B232-49CF-9B2B-FC41089A777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F21115-B232-49CF-9B2B-FC41089A777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F21115-B232-49CF-9B2B-FC41089A777F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
