@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud.csproj", "{52D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DTO", "Crud.DTO\Crud.DTO.csproj", "{26F21115-B232-49CF-9B2B-FC41089A777F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.BLL", "Crud.BLL\Crud.BLL.csproj", "{975C09D4-452B-474F-9878-95C411887042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{26F21115-B232-49CF-9B2B-FC41089A777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F21115-B232-49CF-9B2B-FC41089A777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F21115-B232-49CF-9B2B-FC41089A777F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975C09D4-452B-474F-9878-95C411887042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975C09D4-452B-474F-9878-95C411887042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975C09D4-452B-474F-9878-95C411887042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975C09D4-452B-474F-9878-95C411887042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
