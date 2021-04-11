@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DTO", "Crud.DTO\Crud.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.BLL", "Crud.BLL\Crud.BLL.csproj", "{975C09D4-452B-474F-9878-95C411887042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DAL", "Crud.DAL\Crud.DAL.csproj", "{F4BD10F3-C8A8-4F1B-B23F-A564A4E488FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{975C09D4-452B-474F-9878-95C411887042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{975C09D4-452B-474F-9878-95C411887042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{975C09D4-452B-474F-9878-95C411887042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BD10F3-C8A8-4F1B-B23F-A564A4E488FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BD10F3-C8A8-4F1B-B23F-A564A4E488FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BD10F3-C8A8-4F1B-B23F-A564A4E488FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BD10F3-C8A8-4F1B-B23F-A564A4E488FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

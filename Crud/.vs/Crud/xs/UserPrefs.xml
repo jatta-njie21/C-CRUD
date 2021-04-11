@@ -1,23 +1,24 @@
 ﻿<Properties StartupConfiguration="{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Crud.BLL/Crud.BLL">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crud.DAL/CrudDAL.cs">
     <Files>
       <File FileName="Default.aspx" Line="1" Column="1" />
       <File FileName="Web.config" Line="1" Column="1" />
-      <File FileName="Crud.DTO/CrudDTO.cs" Line="8" Column="21" />
-      <File FileName="Crud.BLL/Crud.BLL" Line="6" Column="10" />
+      <File FileName="Crud.DTO/CrudDTO.cs" Line="8" Column="19" />
+      <File FileName="Crud.DAL/CrudDAL.cs" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Crud" expanded="True">
-            <Node name="Crud.BLL" expanded="True">
-              <Node name="Crud.BLL" selected="True" />
+            <Node name="Crud.DAL" expanded="True">
+              <Node name="CrudDAL.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crud.DAL FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Crud FirstBuild="True" PreferredExecutionTarget="firefox" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Crud.BLL FirstBuild="True" />
