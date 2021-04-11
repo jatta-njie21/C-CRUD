@@ -7,13 +7,13 @@ namespace Crud.DAL
     {
         public void InsertRecord()
         {
-            string cs = @"../../../Desktop/CSharp/C-CRUD/Crud";
+            //string cs = @"../../../Desktop/CSharp/C-CRUD/Crud";
 
             //using var con = new SQLiteConnection(cs);
             //con.Open();
 
             //using var cmd = new SQLiteCommand(con);
-            //cmd.CommandText = "INSERT INTO cars(name, price) VALUES('Audi',52642)";
+            //cmd.CommandText = "INSERT INTO crud(fullname, surname,address,email,contact) VALUES('lboy','jatta','Gambia','laboyjatta@gmail.com',002203730939)";
             //cmd.ExecuteNonQuery();
 
             //return null;
