@@ -1,0 +1,1 @@
+/home/lboy/Desktop/CSharp/C-CRUD/Crud/Crud.BLL/obj/Debug/Crud.BLL.csproj.CoreCompileInputs.cache

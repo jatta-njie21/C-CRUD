@@ -1,28 +1,31 @@
 ﻿<Properties StartupConfiguration="{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Crud.DAL/CrudDAL.cs">
+  <MonoDevelop.Ide.ItemProperties.Crud.Admin PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Regex Toolkit">
     <Files>
-      <File FileName="Default.aspx" Line="1" Column="1" />
-      <File FileName="Web.config" Line="1" Column="1" />
-      <File FileName="Crud.DTO/CrudDTO.cs" Line="8" Column="19" />
-      <File FileName="Crud.DAL/CrudDAL.cs" Line="6" Column="15" />
+      <File FileName="Homepage.aspx" Line="20" Column="17" />
+      <File FileName="Homepage.aspx.cs" Line="10" Column="9" />
+      <File FileName="Homepage.aspx.designer.cs" Line="19" Column="1" />
+      <File FileName="Crud.DAL/CrudDAL.cs" Line="6" Column="19" />
+      <File FileName="Regex Toolkit" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Crud" expanded="True">
+            <Node name="Crud.Admin" expanded="True">
+              <Node name="Homepage.aspx" expanded="True" />
+            </Node>
+            <Node name="Crud.BLL" expanded="True" />
             <Node name="Crud.DAL" expanded="True">
               <Node name="CrudDAL.cs" selected="True" />
             </Node>
+            <Node name="Crud.DTO" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Crud.DAL FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Crud FirstBuild="True" PreferredExecutionTarget="firefox" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Crud.BLL FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Crud.DTO FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

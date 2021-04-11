@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud.csproj", "{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Admin", "Crud.Admin.csproj", "{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.DTO", "Crud.DTO\Crud.DTO.csproj", "{26F21115-B232-49CF-9B2B-FC41089A777F}"
 EndProject
