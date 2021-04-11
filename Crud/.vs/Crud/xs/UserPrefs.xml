@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}|">
   <MonoDevelop.Ide.ItemProperties.Crud.Admin PreferredExecutionTarget="firefox" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Regex Toolkit">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homepage.aspx">
     <Files>
       <File FileName="Homepage.aspx" Line="20" Column="17" />
-      <File FileName="Homepage.aspx.cs" Line="10" Column="9" />
+      <File FileName="Homepage.aspx.cs" Line="10" Column="1" />
       <File FileName="Homepage.aspx.designer.cs" Line="19" Column="1" />
-      <File FileName="Crud.DAL/CrudDAL.cs" Line="6" Column="19" />
-      <File FileName="Regex Toolkit" />
+      <File FileName="Crud.DAL/CrudDAL.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
