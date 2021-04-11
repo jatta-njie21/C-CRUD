@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{52D7B9A6-6170-4581-91B7-3DBC0DC4CECF}|">
   <MonoDevelop.Ide.ItemProperties.Crud.Admin PreferredExecutionTarget="firefox" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homepage.aspx">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crud.BLL/CrudBLL.cs">
     <Files>
       <File FileName="Homepage.aspx" Line="20" Column="17" />
       <File FileName="Homepage.aspx.cs" Line="10" Column="1" />
       <File FileName="Homepage.aspx.designer.cs" Line="19" Column="1" />
-      <File FileName="Crud.DAL/CrudDAL.cs" Line="1" Column="1" />
+      <File FileName="Crud.DAL/CrudDAL.cs" Line="3" Column="1" />
+      <File FileName="Crud.BLL/CrudBLL.cs" Line="10" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,10 +15,10 @@
             <Node name="Crud.Admin" expanded="True">
               <Node name="Homepage.aspx" expanded="True" />
             </Node>
-            <Node name="Crud.BLL" expanded="True" />
-            <Node name="Crud.DAL" expanded="True">
-              <Node name="CrudDAL.cs" selected="True" />
+            <Node name="Crud.BLL" expanded="True">
+              <Node name="CrudBLL.cs" selected="True" />
             </Node>
+            <Node name="Crud.DAL" expanded="True" />
             <Node name="Crud.DTO" expanded="True" />
           </Node>
         </State>
