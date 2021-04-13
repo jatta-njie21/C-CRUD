@@ -5,13 +5,11 @@ using System.Runtime.Serialization;
 namespace Crud.DTO
 {
     [Serializable]
-    //[DataContract]
+    [DataContract]
     
     public class CrudDTO
     {
-        //[DataMember(Order = 0)]public string UserName { get; set; }
+        [DataMember(Order = 0)]public string UserName { get; set; }
         public string Password { get; set; }
-
-       
     }
 }
