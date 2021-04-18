@@ -9,7 +9,7 @@ namespace Crud.DTO
     
     public class CrudDTO
     {
-        [DataMember(Order = 0)]public string UserName { get; set; }
-        public string Password { get; set; }
+        [DataMember(Order = 0)] public string UserName { get; set; }
+        [DataMember(Order = 1)] public string Password { get; set; }
     }
 }
