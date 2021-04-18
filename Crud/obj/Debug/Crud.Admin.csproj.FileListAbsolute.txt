@@ -1,5 +1,0 @@
-/home/lboy/Desktop/CSharp/C-CRUD/Crud/bin/Crud.dll
-/home/lboy/Desktop/CSharp/C-CRUD/Crud/bin/Crud.pdb
-/home/lboy/Desktop/CSharp/C-CRUD/Crud/obj/Debug/Crud.Admin.csproj.CoreCompileInputs.cache
-/home/lboy/Desktop/CSharp/C-CRUD/Crud/obj/Debug/Crud.dll
-/home/lboy/Desktop/CSharp/C-CRUD/Crud/obj/Debug/Crud.pdb
