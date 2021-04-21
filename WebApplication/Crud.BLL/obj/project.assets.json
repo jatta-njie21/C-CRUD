@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Crud.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Crud.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Crud.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Crud.DAL.dll": {}
+        }
+      },
       "Crud.DTO/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Crud.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Crud.DAL/Crud.DAL.csproj",
+      "msbuildProject": "../Crud.DAL/Crud.DAL.csproj"
+    },
     "Crud.DTO/1.0.0": {
       "type": "project",
       "path": "../Crud.DTO/Crud.DTO.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Crud.DAL >= 1.0.0",
       "Crud.DTO >= 1.0.0"
     ]
   },
@@ -53,6 +72,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Humble Viewer\\Desktop\\DEV\\.NetCSharp-CRUD\\WebApplication\\Crud.DAL\\Crud.DAL.csproj": {
+              "projectPath": "C:\\Users\\Humble Viewer\\Desktop\\DEV\\.NetCSharp-CRUD\\WebApplication\\Crud.DAL\\Crud.DAL.csproj"
+            },
             "C:\\Users\\Humble Viewer\\Desktop\\DEV\\.NetCSharp-CRUD\\WebApplication\\Crud.DTO\\Crud.DTO.csproj": {
               "projectPath": "C:\\Users\\Humble Viewer\\Desktop\\DEV\\.NetCSharp-CRUD\\WebApplication\\Crud.DTO\\Crud.DTO.csproj"
             }

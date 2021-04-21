@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Crud.BLL.Interfaces
 {
-    interface IUserBLL
+    public interface IUserBLL
     {
-        void InsertUser();
+        void InsertUser(UserDTO userDTO);
         UserDTO GetUser(UserDTO user);
         Boolean DeleteUser();
     }

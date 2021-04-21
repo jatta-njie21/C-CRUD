@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Crud.DAL\Crud.DAL.csproj" />
     <ProjectReference Include="..\Crud.DTO\Crud.DTO.csproj" />
   </ItemGroup>
 
