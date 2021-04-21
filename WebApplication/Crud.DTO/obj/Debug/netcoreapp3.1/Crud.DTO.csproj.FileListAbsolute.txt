@@ -1,0 +1,9 @@
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\bin\Debug\netcoreapp3.1\Crud.DTO.deps.json
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\bin\Debug\netcoreapp3.1\Crud.DTO.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\bin\Debug\netcoreapp3.1\Crud.DTO.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.csprojAssemblyReference.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.AssemblyInfoInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.AssemblyInfo.cs
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DTO\obj\Debug\netcoreapp3.1\Crud.DTO.pdb

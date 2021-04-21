@@ -1,0 +1,9 @@
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\bin\Debug\netcoreapp3.1\Crud.Client.deps.json
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\bin\Debug\netcoreapp3.1\Crud.Client.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\bin\Debug\netcoreapp3.1\Crud.Client.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.csprojAssemblyReference.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.AssemblyInfoInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.AssemblyInfo.cs
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.csproj.CoreCompileInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.Client\obj\Debug\netcoreapp3.1\Crud.Client.pdb
