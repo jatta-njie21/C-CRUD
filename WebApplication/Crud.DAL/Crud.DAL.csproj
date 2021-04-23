@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
+    <ProjectReference Include="..\Crud.DTO\Crud.DTO.csproj" />
   </ItemGroup>
 
 </Project>

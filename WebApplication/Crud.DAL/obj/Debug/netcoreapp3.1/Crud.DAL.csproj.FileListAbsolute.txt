@@ -1,0 +1,12 @@
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\bin\Debug\netcoreapp3.1\Crud.DAL.deps.json
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\bin\Debug\netcoreapp3.1\Crud.DAL.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\bin\Debug\netcoreapp3.1\Crud.DAL.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\bin\Debug\netcoreapp3.1\Crud.DTO.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\bin\Debug\netcoreapp3.1\Crud.DTO.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.csprojAssemblyReference.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.AssemblyInfoInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.AssemblyInfo.cs
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.csproj.CopyComplete
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.DAL\obj\Debug\netcoreapp3.1\Crud.DAL.pdb

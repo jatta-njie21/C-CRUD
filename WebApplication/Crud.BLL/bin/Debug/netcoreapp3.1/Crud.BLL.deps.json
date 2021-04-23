@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Crud.BLL/1.0.0": {
+        "dependencies": {
+          "Crud.DAL": "1.0.0",
+          "Crud.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Crud.BLL.dll": {}
+        }
+      },
+      "Crud.DAL/1.0.0": {
+        "dependencies": {
+          "Crud.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Crud.DAL.dll": {}
+        }
+      },
+      "Crud.DTO/1.0.0": {
+        "runtime": {
+          "Crud.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crud.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crud.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crud.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

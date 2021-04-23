@@ -1,0 +1,14 @@
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.BLL.deps.json
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.BLL.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.BLL.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.DAL.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.DTO.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.DAL.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\bin\Debug\netcoreapp3.1\Crud.DTO.pdb
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.csprojAssemblyReference.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.AssemblyInfoInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.AssemblyInfo.cs
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.csproj.CopyComplete
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.dll
+C:\Users\Humble Viewer\Desktop\DEV\.NetCSharp-CRUD\WebApplication\Crud.BLL\obj\Debug\netcoreapp3.1\Crud.BLL.pdb
