@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NES/FNjYxkEuwUuWgjTVLqEQ5VJ1e2Rftp3Bd7G1bjLyTz40c0/EQrZlysjLnEhHIbc62TB0SWZDH8M0oCcaiA==",
+  "dgSpecHash": "Rt126YsPonJL/JoK3Fx0di+J71weCFJEleBRB5AOZnQ9ZCdDqRXK7+a6j4hkJvQt6/DbAkbkOzHauFzKnM3lwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Humble Viewer\\Desktop\\DEV\\.NetCSharp-CRUD\\WebApplication\\Crud.BLL\\Crud.BLL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Humble Viewer\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Humble Viewer\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",
+    "C:\\Users\\Humble Viewer\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\Humble Viewer\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
