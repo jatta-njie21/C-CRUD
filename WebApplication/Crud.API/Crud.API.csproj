@@ -9,5 +9,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Crud.BLL\Crud.BLL.csproj" />
+  </ItemGroup>
+
 
 </Project>

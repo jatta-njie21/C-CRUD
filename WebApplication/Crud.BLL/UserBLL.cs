@@ -8,21 +8,23 @@ using System.Text;
 
 namespace Crud.BLL
 {
-    public class UserBLL  //IUserBLL
+    public class UserBLL
     {
-        private IUserDAL _provider;
+        private IUserDAL _dalProvider;
 
-        //public UserDTO InsertUser(UserDTO userDTO)
-        //{
-        //    return _provider.CreateNewUser(userDTO);
-        //}
-        public UserDTO GetUser(UserDTO user)
+        public List<IUserDTO> GetUserByID(long userID)
         {
-            return user;
+            return _dalProvider.GetUserByID(userID);
         }
-        public Boolean DeleteUser()
+
+        public IUserDTO CreateNewUser(IUserDTO newUser)
         {
-            return true;
+            return _dalProvider.CreateUserRecord(newUser);
+        }
+
+        public long DeleteUserRecord(long ID)
+        {
+            return _dalProvider.DeleteUser(ID);
         }
     }
 }

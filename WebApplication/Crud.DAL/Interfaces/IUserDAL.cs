@@ -1,12 +1,13 @@
-﻿using Crud.DTO;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using Crud.DTO.Interfaces;
 
 namespace Crud.DAL.Interfaces
 {
     public interface IUserDAL
     {
-        void CreateNewUser(UserDTO user);
+        IUserDTO CreateUserRecord(IUserDTO newUser);
+        List<IUserDTO> GetUserByID(long ID);
+        long DeleteUser(long userID);
+        IUserDTO UpdateUser(IUserDTO updateUser);
     }
 }
